@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('open-sans-regular.eot');
+  src: url('open-sans-regular.eot?#iefix') format('embedded-opentype'),
+    url('open-sans-regular.woff') format('woff'),
+    url('open-sans-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
