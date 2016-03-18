@@ -17,6 +17,8 @@ Chack'n Pop for NES (Famicom)<br>
 
 ![Ghosts from Pacman](img/pac-man-sprites.png)
 
+![Ghosts from Pacman](img/ghost-sprite.png)
+
 Note:
 Video game console store sprites and palettes separately.
 It allows game developers to reuse sprite and just change the palette.
